@@ -1,9 +1,10 @@
 package el_test
 
 import (
-	"github.com/lysu/go-el"
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	el "github.com/runcom/go-el"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestLex(t *testing.T) {

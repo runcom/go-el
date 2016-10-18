@@ -4,9 +4,10 @@ import (
 	"testing"
 
 	"encoding/json"
-	"github.com/lysu/go-el"
-	"github.com/stretchr/testify/assert"
 	"strconv"
+
+	el "github.com/runcom/go-el"
+	"github.com/stretchr/testify/assert"
 )
 
 type User struct {

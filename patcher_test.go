@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	p "github.com/lysu/go-el"
+	p "github.com/runcom/go-el"
 	"github.com/stretchr/testify/assert"
 )
 
